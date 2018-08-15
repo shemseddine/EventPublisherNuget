@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Shems Eddine Boukhatem</Authors>
+    <Company>shemseddine.com</Company>
+    <Description>An interface for publishing events.</Description>
+    <PackageTags>Event Publishing</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>

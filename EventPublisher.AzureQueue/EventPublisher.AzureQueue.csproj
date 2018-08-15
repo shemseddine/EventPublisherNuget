@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Shems Eddine Boukhatem</Authors>
+    <Company>shemseddine.com</Company>
+    <Description>Implementation of the EventPublisher.Core nuget package.</Description>
+    <PackageReleaseNotes />
+    <PackageTags>Azure Storage, Azure Queue</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
